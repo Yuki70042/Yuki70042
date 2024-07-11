@@ -2,7 +2,7 @@
    - Martin Fowler
 
 
-![Presentation Banner, in progress...](#)
+![Presentation Banner, in progress...](Banner.png)
 
 ## Heyyy Guys ! ⭐
 Welcome in my tiny universe, my name is Liz and I'm a student starting in the world of programming  :)  

@@ -20,4 +20,4 @@ Welcome in my tiny universe, my name is Liz and I'm a student starting in the wo
 - [x] Progress
 - [x] Discover people and projects
 - [x] Participate int the github community
-- [ ] To make pancakes
+- [ ] To make pancakes (One day maybe)

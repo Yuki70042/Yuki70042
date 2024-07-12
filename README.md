@@ -6,7 +6,7 @@
 
 ## Heyyy Guys ! ⭐
 Welcome in my tiny universe, my name is Liz and I'm a student starting in the world of programming.  
-I'm currently doing a BTS SIO SLAM option and I plan to continue by exploring a large number of tools.
+I'm currently doing a BTS SIO SLAM option in France and I plan to continue by exploring a large number of tools.
 
 
 	Creating is the life I choose 😎

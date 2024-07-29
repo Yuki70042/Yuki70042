@@ -2,11 +2,12 @@
    - Martin Fowler
 
 
-![Presentation Banner, in progress...](Banner.png)
+![Presentation Banner](Banner.png)
 
 ## Heyyy Guys ! ⭐
 Welcome in my tiny universe, my name is Liz and I'm a student starting in the world of programming.  
-I'm currently doing a BTS SIO SLAM option in France and I plan to continue by exploring a large number of tools.
+I'm currently doing a BTS SIO SLAM option in France and I intend to continue my studies in this field
+which allows so much freedom!
 
 
 	Creating is the life I choose 😎

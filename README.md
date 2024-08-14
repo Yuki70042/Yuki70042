@@ -32,7 +32,3 @@ I'm passionate about digital art, creating stories, and the art of sending messa
 </div>
 
 -------------------------------
-
-## 📬 Contact
-- [LinkedIn](www.linkedin.com/in/liz-blanca) 
-- E-mail: [lizblanca.pro@gmail.com](mailto:lizblanca.pro@gmail.com)

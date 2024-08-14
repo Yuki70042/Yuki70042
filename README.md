@@ -1,9 +1,7 @@
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
    - Martin Fowler
 
-
-![Presentation Banner](Banner.png)
-
+  
 ## Heyyy Everyone ! ⭐
 Welcome in my tiny universe, my name is Liz and I'm a student starting in the world of programming.  
 I'm currently doing a BTS SIO SLAM option in France and I intend to continue my studies in this field

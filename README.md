@@ -7,7 +7,7 @@ Welcome in my tiny universe, my name is Liz and I'm a student starting in the wo
 
 I'm currently doing a BTS SIO SLAM option in France and I intend to continue my studies in this field
 which allows so much freedom!  
-I'm passionate about digital art, creating stories, and the art of sending messages through the simplest things  
+I create a lot of utility software with c# mainly and I'm passionate about digital art and creating stories, 
 
 ---------------------------------------------------
 

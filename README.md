@@ -25,10 +25,10 @@ I create a lot of utility software with c# mainly and I'm passionate about digit
 <div align="center">
 
 ### Learning about:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cs,py,php,html,css)](https://skillicons.dev)  
 
 ### Tools I use:
-[![My Skills](https://skillicons.dev/icons?i=git,unity,vscode,visualstudio,pycharm,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,unity,vscode,visualstudio,pycharm,wordpress,dotnet)](https://skillicons.dev)
 
 </div>
 
